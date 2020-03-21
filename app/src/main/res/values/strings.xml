@@ -30,7 +30,7 @@
     <string name="noweight">Weight cannot be zero or empty</string>
     <string name="noheight">Height cannot be zero or empty</string>
     <string name="nohw">Height and Weight cannot be zero or empty</string>
-    <string name="zero">Height or Weight cannot be zero </string>
+    <string name="zero">Height and Weight cannot be zero </string>
 
 
 
