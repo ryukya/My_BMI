@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">My BMI</string>
+    <string name="logo1">My</string>
+    <string name="logo2">BMI</string>
+
+    <string name="devinfo">Information</string>
+    <string name="m1metric">Metric</string>
+    <string name="m2imperial">Imperial</string>
+
+    <string name="tname">Felisia</string>
+    <string name="taliasname">Felisia_felisia</string>
+    <string name="tmail">242859@student.pwr.edu.pl</string>
+    <string name="tuni">Wroclaw University of Science and Technology </string>
+    <string name="tgame">Boardgamers</string>
+    <string name="tfood">Foodie </string>
+    <string name="tabout">Felisia is a boardgames and food lover. \n A newbie developer in Android programming.\n Contact her if you want to ask more about this app </string>
+    <string name="tcopy">copyright © 2012 242859@student.pwr.edu.pl </string>
+
+    <string name="yheight">Your height here</string>
+    <string name="yweight">Your weight here</string>
+    <string name="m1hformat">Height CM</string>
+    <string name="m1wformat">Weight KG</string>
+    <string name="i2hformat">Height In</string>
+    <string name="i2wformat">Weight Lb</string>
+    <string name="tresult">Result here</string>
+    <string name="infolabel">Result Detail</string>
+    <string name="tcount">Count</string>
+    <string name="tinfo">Click the result for more details</string>
+
+    <string name="noweight">Weight cannot be zero or empty</string>
+    <string name="noheight">Height cannot be zero or empty</string>
+    <string name="nohw">Height and Weight cannot be zero or empty</string>
+    <string name="zero">Height or Weight cannot be zero </string>
+
+
+
+    <string name="dobes">Obese \n You need extra effort to get ideal weight. But you have a talent to be a food taster</string>
+    <string name="dover">Overweight\n You need to do litle excercises in life. Overweight can be obesity in no time!</string>
+    <string name="dnorm">Ideal \n You have the ideal weight! Many people really want to be like you! Keep it up! </string>
+    <string name="dless">Underweight \n Eat more! One of happiness in life is to be able to eat, do not take it for granted. </string>
+
+
+</resources>
